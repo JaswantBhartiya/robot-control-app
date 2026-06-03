@@ -1,6 +1,6 @@
 # Robot Control App
 <p align="center">
-  <img src="assets/C1-icon.png" width="100" height="100" alt="App Icon">
+  <img src="assets/app_icon.png" width="100" height="100" alt="App Icon">
 </p>
 
 An Android application built using MIT App Inventor to interface with and control a mobile robot.
